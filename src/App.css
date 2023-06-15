@@ -114,7 +114,11 @@ body{
   .container{   
     width: 95%;
     padding: 10px;
-    transform: translate(7px, 10px);
-
+    transform: translate(0px, 10px);
+    width: 19rem;
   }
+  .show-score{
+    width: 19rem;
+  }
+ 
 }
